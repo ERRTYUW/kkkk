@@ -1,7 +1,7 @@
 import allure
 import pytest
 
-class Test01():
+class Test000():
     @allure.step("执行学院新增操作")
     def test01(self):
         print("test01被执行了")
